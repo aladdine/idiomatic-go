@@ -4,7 +4,7 @@
 
 Go programmers typically use short variable names when the scope of the variable is small \(e.g. a variable inside a function\). However, if the scope is broad \(i.e. a function that is meant to be imported from another package\), longer and more meaningful names are used.
 
-This pattern can be seen in the \(bufio\)\[[https://golang.org/src/bufio/bufio.go](https://golang.org/src/bufio/bufio.go)\] Go package.
+This pattern can be seen in the \[bufio\]\([https://golang.org/src/bufio/bufio.go](https://golang.org/src/bufio/bufio.go)\) Go package.
 
 ## Scope
 
